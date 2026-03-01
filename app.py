@@ -495,5 +495,5 @@ elif page == "About Us":
     st.write("- **Health Literacy**: Educates users about vital heart health metrics through clear explanations.")
     st.write("- **Proactive Care**: Encourages users to seek timely medical advice and adopt healthier lifestyles.")
     
-    st.header("Developer information")
+    st.header("Developer Information")
     st.write("This project was developed by Dhruvi Lotia enthusiast passionate about leveraging machine learning to solve real-world healthcare challenges. The aim is to bridge the gap between complex medical diagnostics and accessible technology.")
