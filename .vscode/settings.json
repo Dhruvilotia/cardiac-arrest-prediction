@@ -1,0 +1,13 @@
+{
+    "notebook.diff.experimental.toggleInline": false,
+    "notebook.diff.ignoreOutputs": false,
+    "notebook.diff.ignoreMetadata": false,
+    "notebook.diff.overviewRuler": false,
+    "notebook.diff.enablePreview": false,
+    "cSpell.words": [
+        "annot",
+        "xlabel",
+        "xticks",
+        "ylabel"
+    ]
+}

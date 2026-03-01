@@ -1,0 +1,3 @@
+Date_Time,Patient_ID,Patient_Name,Age,Sex,Chest_Pain_Type,Resting_BP,Cholesterol,Fasting_Blood_Sugar,Resting_ECG,Max_Heart_Rate,Exercise_Angina,ST_Depression,ST_Slope,Major_Vessels,Thalassemia,Prediction_Result
+2026-03-01 18:18:34,564,fef,78,1,3,167,515,1,0,91,1,1.0,2,4,3,High Risk
+2026-03-01 20:41:50,55555,xdcd,36,1,0,120,200,0,0,150,0,4.9,0,0,1,Low Risk
